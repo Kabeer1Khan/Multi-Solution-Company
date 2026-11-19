@@ -7,7 +7,7 @@ import 'leaflet/dist/leaflet.css'
 const ease = [0.16, 1, 0.3, 1]
 
 // Edit your details here
-const PHONE = { label: '+92 335 3977433', note: 'Mon – Sat, 9:00 am – 6:00 pm', href: 'tel:+923353977433' }
+const PHONE = { label: '+92 345 6058861', note: 'Mon – Sat, 9:00 am – 6:00 pm', href: 'tel:+923353977433' }
 const EMAIL = { label: 'info@multisolution.com', href: 'mailto:info@multisolution.com' }
 // Map position: Johar Mor / Perfume Chowk, Gulistan-e-Jauhar, Karachi. To pin your exact office, right-click it in
 // Google Maps, click the coordinates at the top of the menu to copy them, and paste them here.
